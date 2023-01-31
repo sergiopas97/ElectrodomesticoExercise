@@ -3,7 +3,6 @@ public abstract class Appliance {
     protected static final char DEFAULT_CONSUMPTION = 'F';
     protected static final float DEFAULT_PRICE = 100;
     protected static final float DEFAULT_WEIGHT = 5;
-
     protected float price;
     protected String color;
     protected char eConsumption;
